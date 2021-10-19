@@ -1,6 +1,7 @@
 # Simple Twitter
 
-Heroku: https://radiant-depths-21853.herokuapp.com/signin
+[simple twitter 連結在此](https://github.com/hsiyu1121/twitter-fullstack-2020.git) 
+
 
 # 網站畫面
 
@@ -81,31 +82,17 @@ node app.js or nodemon app.js
 # 測試帳號
 | 帳號 | 密碼 |
 | :------------- | :------------- |
-| @root | 12345678  |
-| @user1 | 12345678  |
-| @user2| 12345678  |
+| root | 12345678  |
+| user1 | 12345678  |
+| user2| 12345678  |
+| user3| 12345678  |
+| user4| 12345678  |
+| user5| 12345678  |
 
-
-# Dependencies
-+ Node.js: v12.15.0
-+ Express: v4.17.1
-+ Express-Handlebars: v5.1.0
-+ mysql2: v2.1.0
-+ sequelize: v6.3.5
-+ sequelize-cli: v6.2.0
-+ imgur-node-api": "^0.1.0"
-+ dotenv": "^8.2.0"
-+ express": "^4.16.4"
-+ express-handlebars": "^5.1.0"
-+ express-session": "^1.17.1"
-+ faker": "^4.1.0"
-+ imgur-node-api": "^0.1.0"
-+ method-override": "^3.0.0"
-+ socket.io": "^2.3.0" 
 
 # 共同開發人員
 
-ShengYao: https://github.com/ShengYaoHuang
+[Sheng Yao's GitHub](https://github.com/ShengYaoHuang)
 
-Eric Hsu: https://github.com/hsiyu1121/
+[Michael's GitHub](https://github.com/michaelnctu)
 
