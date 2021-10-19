@@ -7,15 +7,15 @@
 
 登入入口
 
-![image](https://github.com/hsiyu1121/twitter-fullstack-2020/signup.png)
+![image](./signup.png)
 
 twitter頁面
 
-![image](https://github.com/hsiyu1121/twitter-fullstack-2020/twitter.png)
+![image](./twitter.png)
 
- 公開聊天室
+ 使用者頁面
  
- ![image](https://github.com/hsiyu1121/twitter-fullstack-2020/profile.png)
+ ![image](./profile.png)
 
 # 網站功能
 
