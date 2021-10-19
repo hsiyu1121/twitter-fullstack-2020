@@ -38,27 +38,27 @@ twitter頁面
 
 
 # How to run this project
-1. To build this project locally:
+1. 在本地端下載此專案:
 ```
-git clone https://github.com/michaelnctu/twitter-fullstack-2020.git
+git clone https://github.com/hsiyu1121/twitter-fullstack-2020.git
 ```
-2. After directing into the file
+2. 在twitter-fullstack-2020專案下輸入:
 ```
 npm install
 ```
 3. nodemon
 ```
-npm install nodemon 
+npm install nodemon -g
 ```
 4. Workbench新增database
 ```
-CREATE DATABASE forum;
+CREATE DATABASE simple-twitter;
 ```
 5. Workbench使用database
 ```
-use forum;
+use simple-twitter;
 ```
-6.匯入遷徙檔案
+6.建立資料表
 ```
 npx sequelize db:migrate
 ```
